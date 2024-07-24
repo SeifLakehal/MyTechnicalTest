@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LodashStatistics\\bin\\Debug\\net8.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD500A61-69A9-414A-A1D4-92FC4B5D1D8D}|LodashStatistics\\LodashStatistics.csproj|c:\\users\\em_la.desktop-1bugqcc\\onedrive\\desktop\\lodashstatistics\\lodashstatistics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD500A61-69A9-414A-A1D4-92FC4B5D1D8D}|LodashStatistics\\LodashStatistics.csproj|solutionrelative:lodashstatistics\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD500A61-69A9-414A-A1D4-92FC4B5D1D8D}|LodashStatistics\\LodashStatistics.csproj|c:\\users\\em_la.desktop-1bugqcc\\onedrive\\desktop\\lodashstatistics\\lodashstatistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD500A61-69A9-414A-A1D4-92FC4B5D1D8D}|LodashStatistics\\LodashStatistics.csproj|solutionrelative:lodashstatistics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD500A61-69A9-414A-A1D4-92FC4B5D1D8D}|LodashStatistics\\LodashStatistics.csproj|c:\\users\\em_la.desktop-1bugqcc\\onedrive\\desktop\\lodashstatistics\\lodashstatistics\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD500A61-69A9-414A-A1D4-92FC4B5D1D8D}|LodashStatistics\\LodashStatistics.csproj|solutionrelative:lodashstatistics\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\Program.cs",
+              "RelativeDocumentMoniker": "LodashStatistics\\Program.cs",
+              "ToolTip": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\Program.cs",
+              "RelativeToolTip": "LodashStatistics\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T12:10:48.184Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "LodashStatistics\\AppConfiguration.cs",
+              "ToolTip": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\AppConfiguration.cs",
+              "RelativeToolTip": "LodashStatistics\\AppConfiguration.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T13:21:40.087Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\appsettings.json",
+              "RelativeDocumentMoniker": "LodashStatistics\\appsettings.json",
+              "ToolTip": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\appsettings.json",
+              "RelativeToolTip": "LodashStatistics\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T13:33:46.175Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeDocumentMoniker": "LodashStatistics\\bin\\Debug\\net8.0\\appsettings.json",
+              "ToolTip": "C:\\Users\\em_la.DESKTOP-1BUGQCC\\OneDrive\\Desktop\\LodashStatistics\\LodashStatistics\\bin\\Debug\\net8.0\\appsettings.json",
+              "RelativeToolTip": "LodashStatistics\\bin\\Debug\\net8.0\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-24T16:35:47.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
